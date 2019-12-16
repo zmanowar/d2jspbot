@@ -1,0 +1,8 @@
+{
+    "server":"wss://chat.d2jsp.org:2053/irc",
+    "mulepath":"mules/",
+    "user": {
+        "id":0,
+        "h":""
+    }
+}
